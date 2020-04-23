@@ -1,0 +1,41 @@
+_repo: The-Ultimate-Salient_61859
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Danzell, George
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2020-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Science fiction -- Authorship -- Fiction'
+- !lcsh 'Spirit writings -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Ultimate Salient
+url: http://www.gutenberg.org/ebooks/61859
